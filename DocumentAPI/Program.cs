@@ -14,6 +14,7 @@ public static class Program
     {
        // webHostBuilder.AddAppSettings();
         webHostBuilder.UseStartup<StartUp>();
+        // Hi
     }
  }
 }
